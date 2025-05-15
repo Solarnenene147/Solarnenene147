@@ -27,7 +27,7 @@ Tôi yêu thích việc tạo ra các dự án sáng tạo và giải quyết c�
    - 🔧 Công nghệ: PHP, Bootstrap, MySQL Server.
    - 🌟 Mô tả: Xây dựng trang web bán rau củ quả chạy bằng XAMPP đầy đủ các chức năng.
 
-3. Giao diện web To-Do List (personal project) (https://github.com/Solarnenene147/todo_list)
+3. Giao diện web To-Do List TickIt (personal project) (https://github.com/Solarnenene147/todo_list)
    - 🔧 Công nghệ: HTML, CSS, JavaScript, Bootstrap.
    - 🌟 Mô tả: Xây dụng giao diện list việc cần làm ưa nhìn, phù hợp với mọi loại người dùng.
 
