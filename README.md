@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Giới thiệu
 
-Xin chào! Tôi là Huỳnh Minh Phước, Sinh viên năm 3 Đại học Công Nghệ Thông Tin - Đại học Quốc Gia TP.HCM (UIT).  
+Xin chào! Tôi là Huỳnh Minh Phước, Sinh viên năm 4 Đại học Công Nghệ Thông Tin - Đại học Quốc Gia TP.HCM (UIT).  
 Tôi yêu thích việc tạo ra các dự án sáng tạo và giải quyết các vấn đề thực tế thông qua công nghệ. Ngoài ra, tôi còn có niềm đam mê với những thứ được gọi là "tuổi thơ" nữa.
 
 ---
