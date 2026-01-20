@@ -1,51 +1,38 @@
 # 🌟 [Huỳnh Minh Phước] 🌟
 
-### 👨‍💻 Giới thiệu
+### 👨‍💻 About Me
 
-Xin chào! Tôi là Huỳnh Minh Phước, Sinh viên năm 4 Đại học Công Nghệ Thông Tin - Đại học Quốc Gia TP.HCM (UIT).  
-Tôi yêu thích việc tạo ra các dự án sáng tạo và giải quyết các vấn đề thực tế thông qua công nghệ. Ngoài ra, tôi còn có niềm đam mê với những thứ được gọi là "tuổi thơ" nữa.
+Hello World! I’m Huynh Minh Phuoc, a fourth-year student at the University of Information Technology – Vietnam National University HCMC (UIT).
+I am passionate about Front-End Development and enjoy creating clean, user-friendly interfaces and solving real-world problems through technology. Besides programming, I also have a strong interest in creative ideas and things related to “childhood memories”.
+---
+
+### 🛠️ Skills
+
+- Languages: HTML, CSS, JavaScript, PHP (Basic)
+
+- Frameworks & Libraries: React.js, React Native, Bootstrap
+
+- Databases (Basic experience): MySQL, Microsoft SQL Server
+
+- Tools: Git, GitHub, VS Code, Figma
+
+- Others: Responsive Web Design, On-page SEO
 
 ---
 
-### 🛠️ Kỹ năng của tôi
-
-- **Ngôn ngữ lập trình**: HTML, CSS, JavaScript, Python (Cơ bản), PHP(Cơ bản).
-- **Framework/Thư viện**: ReactJS, React Native, Bootstrap.
-- **Công cụ/Phần mềm**: Git, VS Code, Figma, Postman.
-
----
-
-### 📚 Dự án nổi bật
-
-1. Giao diện web tổng hợp tổ chức từ thiện GiveHub (team project) (https://github.com/Solarnenene147/IE104)
-
-   - 🔧 Công nghệ: ReactJS, CSS.
-   - 🌟 Mô tả: Xây dựng giao diện trang web tổng hợp tổ chức từ thiện với giao diện đơn giản, dễ nhìn, phù hợp với các thể loại người dùng.
-
-2. Trang web bán rau củ quả 2PM& Fruitables (team project) (https://github.com/nhsmai04/IS207-SOLITEA)
-
-   - 🔧 Công nghệ: PHP, Bootstrap, MySQL Server.
-   - 🌟 Mô tả: Xây dựng trang web bán rau củ quả chạy bằng XAMPP đầy đủ các chức năng.
-
-3. Giao diện web To-Do List TickIt (personal project) (https://github.com/Solarnenene147/todo_list)
-   - 🔧 Công nghệ: HTML, CSS, JavaScript, Bootstrap.
-   - 🌟 Mô tả: Xây dụng giao diện list việc cần làm ưa nhìn, phù hợp với mọi loại người dùng.
-
----
-
-### 📫 Liên hệ với tôi
+### 📫 Contact
 
 - Email: winnerhuynh1234@gmail.com
 - Facebook: facebook.com/hmf1407
 
 ---
 
-### 🏆 Thành tích
+### 🏆 Achievements
 
-- Giải nhất kỳ thi STEM bộ môn Tự động hóa tại trường THPT Trần Phú TP.HCM (2021).
-- Luyện thi học sinh với 3 huy chương bạc Quốc Tế cuộc thi HKICO (2024).
+- First Prize in STEM Automation Competition at Tran Phu High School, Ho Chi Minh City (2021)
+- Coached students to achieve 3 Silver Medals in the International HKICO Competition (2024)
 
 ---
 
-Cảm ơn bạn đã ghé thăm!  
-Hãy kết nối với tôi để cùng nhau phát triển 🎉.
+Thank you for visiting my profile!
+Feel free to connect with me — let’s grow and build amazing things together 🎉
