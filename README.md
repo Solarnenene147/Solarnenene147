@@ -36,9 +36,3 @@ I am passionate about Front-End Development and enjoy creating clean, user-frien
 
 Thank you for visiting my profile!
 Feel free to connect with me — let’s grow and build amazing things together 🎉
-
-### 📊 My Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-### 📈 Statistical Overview
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
