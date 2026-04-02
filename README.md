@@ -10,7 +10,7 @@ I am passionate about Front-End Development and enjoy creating clean, user-frien
 
 - Languages: HTML, CSS, JavaScript, PHP (Basic)
 
-- Frameworks & Libraries: React.js, React Native, Bootstrap
+- Frameworks & Libraries: React.js, React Native, Bootstrap, Tailwind, NextJS
 
 - Databases (Basic experience): MySQL, Microsoft SQL Server
 
@@ -22,8 +22,8 @@ I am passionate about Front-End Development and enjoy creating clean, user-frien
 
 ### 📫 Contact
 
-- Email: winnerhuynh1234@gmail.com
-- Facebook: facebook.com/hmf1407
+- Email: hmf.forwork@gmail.com
+- Facebook: [Minh Phước](https://www.facebook.com/hikami.hiryuu.147/)
 
 ---
 
@@ -36,3 +36,9 @@ I am passionate about Front-End Development and enjoy creating clean, user-frien
 
 Thank you for visiting my profile!
 Feel free to connect with me — let’s grow and build amazing things together 🎉
+
+### 📊 My Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+### 📈 Statistical Overview
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
